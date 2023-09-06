@@ -3,3 +3,4 @@ Git and GitHub
 + add something to readme file
 
 + another text
++ text
